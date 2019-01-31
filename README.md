@@ -4,9 +4,9 @@
 *Agne Bergström*
 
 ## Bakgrund
-
+https://www.maxpixel.net/static/photo/1x/World-Earth-Rise-Sunrise-Space-Outer-Sun-Globe-1765027.jpg
 ## Planering
-### Innehåll
+### Innehåll:
 ### Layout
 ### Färgval
 ###### Bakgrund
@@ -26,13 +26,13 @@
 
 ###### Beteende
 ###### Användningsområde
-###### HEX
-###### RGB
+###### HEX 847964
+###### RGB 132,121,100
 
 ###### Text
 ###### Användningsområde
-###### HEX
-###### RGB
+###### HEX 363724
+###### RGB 54,55,36
 
 ### Typsnitt
 ### Mockup
