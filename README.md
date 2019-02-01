@@ -5,6 +5,7 @@
 
 ## Bakgrund
 https://www.maxpixel.net/static/photo/1x/World-Earth-Rise-Sunrise-Space-Outer-Sun-Globe-1765027.jpg
+![alt text](https://www.maxpixel.net/static/photo/1x/World-Earth-Rise-Sunrise-Space-Outer-Sun-Globe-1765027.jpg "Bckground imgae")
 ## Planering
 ### Innehåll:
 ### Layout
