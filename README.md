@@ -4,26 +4,22 @@
 *Agne Bergström*
 
 ## Bakgrund
-https://www.maxpixel.net/static/photo/1x/World-Earth-Rise-Sunrise-Space-Outer-Sun-Globe-1765027.jpg
 ![alt text](https://www.maxpixel.net/static/photo/1x/World-Earth-Rise-Sunrise-Space-Outer-Sun-Globe-1765027.jpg "Bckground imgae")
+
 ## Planering
 ### Innehåll:
 ### Layout
 ### Färgval
-###### Bakgrund
-###### Användningsområde
-###### HEX
-###### RGB
 
 ###### Element
 ###### Användningsområde
-###### HEX
-###### RGB
+###### HEX eae1d7
+###### RGB 234,225,215
 
 ###### Huvudsaklig färg
 ###### Användningsområde
-###### HEX
-###### RGB
+###### HEX 003399
+###### RGB 0,53,153
 
 ###### Beteende
 ###### Användningsområde
@@ -37,6 +33,7 @@ https://www.maxpixel.net/static/photo/1x/World-Earth-Rise-Sunrise-Space-Outer-Su
 
 ### Typsnitt
 ### Mockup
+
 ### Tillgänglighet
 
 
