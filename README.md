@@ -9,7 +9,7 @@
 ## Planering
 ### Innehåll:
 ### Layout
-![alt text](./_docs/img/webbutveckling.png "Bckground imgae")
+![alt text](./_docs/img/Webbutveckling.png "Bckground imgae")
 ### Färgval
 
 ###### Element
