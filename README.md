@@ -4,11 +4,12 @@
 *Agne Bergström*
 
 ## Bakgrund
-![alt text](https://www.maxpixel.net/static/photo/1x/World-Earth-Rise-Sunrise-Space-Outer-Sun-Globe-1765027.jpg "Bckground imgae")
+![alt text](https://www.maxpixel.net/static/photo/1x/World-Earth-Rise-Sunrise-Space-Outer-Sun-Globe-1765027.jpg "Background imgae")
 
 ## Planering
 ### Innehåll:
 ### Layout
+![alt text](./_docs/img/webbutveckling.png "Bckground imgae")
 ### Färgval
 
 ###### Element
