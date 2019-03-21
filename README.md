@@ -33,10 +33,11 @@
 ###### RGB 54,55,36
 
 ### Typsnitt
+Inget särskilt utan det som finns på användarens dator.
 ### Mockup
-
+C:\Users\tisgot17agnber\OneDrive - Thorengruppen\Webbutveckling
 ### Tillgänglighet
 
+### Dokumentation
 
-## Dokumentation
 ### Kod
