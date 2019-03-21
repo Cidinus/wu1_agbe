@@ -36,7 +36,7 @@
 Inget särskilt utan det som finns på användarens dator.
 
 ### Mockup
-![alt text](./_docs/img/Mockup.png "Mockup")
+![alt text](./_docs/img/Mockup.PNG "Mockup")
 
 ### Tillgänglighet
 
