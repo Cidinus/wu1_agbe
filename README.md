@@ -9,7 +9,7 @@
 ## Planering
 ### Innehåll:
 ### Layout
-![alt text](./_docs/img/Webbutveckling.png "Bckground imgae")
+![alt text](./_docs/img/Webbutveckling.png "Background image")
 ### Färgval
 
 ###### Element
@@ -34,7 +34,9 @@
 
 ### Typsnitt
 Inget särskilt utan det som finns på användarens dator.
+
 ### Mockup
+![alt text](./_docs/img/Mockup.png "Mockup")
 
 ### Tillgänglighet
 
