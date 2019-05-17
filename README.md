@@ -12,22 +12,22 @@
 ![alt text](./_docs/img/Webbutveckling.png "Background image")
 ### Färgval
 
-###### Element
+##### Element
 ###### Användningsområde
 ###### HEX f1f1f1 ![alt-text](https://via.placeholder.com/20/eae1d7/eae1d7?Text=%20 "#f1f1f1")
 ###### RGB 241,241,241
 
-###### Huvudsaklig färg
+##### Huvudsaklig färg
 ###### Användningsområde
 ###### HEX 003399 ![alt-text](https://via.placeholder.com/20/003399/003399?Text=%20 "#003399")
 ###### RGB 0,53,153
 
-###### Beteende
+##### Beteende
 ###### Användningsområde
 ###### HEX 847964 ![alt-text](https://via.placeholder.com/20/847964/847964?Text=%20 "#847964")
 ###### RGB 132,121,100
 
-###### Text
+##### Text
 ###### Användningsområde
 ###### HEX 363724 ![alt-text](https://via.placeholder.com/20/363724/363724?Text=%20 "#363724")
 ###### RGB 54,55,36
