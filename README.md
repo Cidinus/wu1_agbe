@@ -60,19 +60,19 @@ Jag hade ont om tid vilket ledde till att jag slutförde hemsidan direkt utan at
 
 ###### HTML:
 
-![alt text] (./_docs/img/Test.png "HTML validation")
+![alt text](./_docs/img/Test.png "HTML validation")
 
 ###### CSS:
 
-![alt text] (./_docs/img/Testcss.png "CSS validation")
+![alt text](./_docs/img/Testcss.png "CSS validation")
 
 ###### Resultatet
 
-![alt text] (./_docs/img/Resultatindex.png "Resultat index")
+![alt text](./_docs/img/Resultatindex.png "Resultat index")
 
-![alt text] (./_docs/img/ResultatHistoria.png "Resultat Historia")
+![alt text](./_docs/img/ResultatHistoria.png "Resultat Historia")
 
-![alt text] (./_docs/img/ResultatKontakt.png "Resultat Kontakt")
+![alt text](./_docs/img/ResultatKontakt.png "Resultat Kontakt")
 
 Resultatet som jag fick fram är enligt mig bra och jag tycker om hur det ser ut. 
 
