@@ -56,19 +56,19 @@ Jag hade ont om tid vilket ledde till att jag slutförde hemsidan direkt utan at
 
 #### Resultat
 
-###### Testresultat av w3c’s validator: 
+##### Testresultat av w3c’s validator: 
 
-###### HTML:
+##### HTML:
 
 ![alt text](./_docs/img/Test.png "HTML validation")
 
-###### CSS:
+##### CSS:
 
 ![alt text](./_docs/img/Testcss.png "CSS validation")
 
-###### Resultatet
+##### Resultatet
 
-![alt text](./_docs/img/Resultatindex.png "Resultat index")
+![alt text](./_docs/img/Resultat index.png "Resultat index")
 
 ![alt text](./_docs/img/ResultatHistoria.png "Resultat Historia")
 
