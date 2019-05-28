@@ -50,8 +50,12 @@ Det allra första för att kunna börja på koden var att skissa hur hemsidan sk
 
 Efter skissen och mockupen gjorde jag en planering och började sedan på koden.
 
-Jag la först in bakgrundsbilden och stylade den så att den automatiskt ändrar sig efter storleken på skärmen som visar hemsidan. När det var färdigställt la jag in html samt css koden för navigationsbaren och artikeln. Dessa la jag i en wrapper som täcker 70% av sida till sida och 100% i height. Jag la sedan in styling för navigationsbaren och artikeln i css och fick de att se ut som de gör. 
-Efter tester körda kom jag fram till att artikelns text fortsätter neråt på det sättet jag vill (fortsätter neråt och skapar en scrollbar när texten kommer ur bildrutan. Problemet med detta var att wrappern inte hängde med texten utan stannade bara efter den täckt upp den del av skärmen som visades. Detta löste jag genom att skapa en klass med en container innanför wrappern som jag säger åt ska vara responsiv till texten, det vill säga att den ska förändras med texten. Jag sa åt wrappern att vara responsiv till den nyskapade klassen. Detta leder till att om texten kommer ur bild så fortsätter den vita bakgrunden så länge texten finns där samt skapar en scrollbar som gör att du kan scrolla för att se resterande text. Det var precis det jag tänkte mig men med denna metoden att lösa problemet gör även så att ifall texten inte täcker upp hela sidan så kommer wrappern bara täcka upp den del som texten tar upp.
+Jag la först in bakgrundsbilden och stylade den så att den automatiskt ändrar sig efter storleken på skärmen som visar hemsidan. När det var färdigställt la jag in HTML samt CSS koden för navigationsbaren och artikeln. Dessa la jag i en wrapper som täcker 70% av sida till sida och 100% i height. Jag la sedan in styling för navigationsbaren och artikeln i CSS och fick de att se ut som de gör. 
+
+Efter tester körda kom jag fram till att artikelns text fortsätter neråt på det sättet jag vill (fortsätter neråt och skapar en scrollbar när texten kommer ur bildrutan. Problemet med detta var att wrappern inte hängde med texten utan stannade bara efter den täckt upp den del av skärmen som visades. Detta löste jag genom att skapa en klass med en container innanför wrappern som jag säger åt ska vara responsiv till texten, det vill säga att den ska förändras med texten. 
+
+Jag sa åt wrappern att vara responsiv till den nyskapade klassen. Detta leder till att om texten kommer ur bild så fortsätter den vita bakgrunden så länge texten finns där samt skapar en scrollbar som gör att du kan scrolla för att se resterande text. Det var precis det jag tänkte mig men med denna metoden att lösa problemet gör även så att ifall texten inte täcker upp hela sidan så kommer wrappern bara täcka upp den del som texten tar upp.
+
 Jag hade ont om tid vilket ledde till att jag slutförde hemsidan direkt utan att göra genomförandeplanen. 
 
 #### Resultat
