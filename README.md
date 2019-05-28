@@ -55,7 +55,7 @@ Jag hade ont om tid vilket ledde till att jag slutförde hemsidan direkt utan at
 ###### Testresultat av w3c’s validator: 
 
 ###### HTML:
-![alt text] (C:\Users\tisgot17agnber\OneDrive - Thorengruppen\Webbutveckling "HTML validation")
+![alt text] (./Users/tisgot17agnber/OneDrive - Thorengruppen\Webbutveckling "HTML validation")
 ###### CSS:
 ![alt text] ( "CSS validation")
 ###### Resultatet
