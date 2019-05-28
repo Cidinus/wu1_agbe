@@ -68,7 +68,7 @@ Jag hade ont om tid vilket ledde till att jag slutförde hemsidan direkt utan at
 
 ##### Resultatet
 
-![alt text](./_docs/img/Resultat index.png "Resultat index")
+![alt text](./_docs/img/ResultatIndex.png "Resultat index")
 
 ![alt text](./_docs/img/ResultatHistoria.png "Resultat Historia")
 
