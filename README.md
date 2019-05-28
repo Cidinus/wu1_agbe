@@ -60,7 +60,7 @@ Jag hade ont om tid vilket ledde till att jag slutförde hemsidan direkt utan at
 ![alt text] (./_docs/img/Test css.PNG "CSS validation")
 ###### Resultatet
 ![alt text] (./_docs/img/Resultat index.PNG "Resultat index")
-![alt text] (./_docs/img/Resultat Historia.PNG
+![alt text] (./_docs/img/Resultat Historia.PNG)
 ![alt text] (./_docs/img/Resultat kontakt.PNG "Resultat kontakt")
 Resultatet som jag fick fram är enligt mig bra och jag tycker om hur det ser ut. 
 
