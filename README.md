@@ -4,12 +4,15 @@
 *Agne Bergström*
 
 ## Bakgrund
+
 ![alt text](https://get.pxhere.com/photo/nature-light-sky-sun-night-sunlight-cosmos-atmosphere-space-blue-galaxy-moon-solar-globe-world-nebula-outer-space-science-astronomy-earth-design-stars-universe-bright-planet-alien-fantasy-orbit-astronomical-object-1234281.jpg)
 
 ## Planering
 ### Innehåll:
 ### Layout
+
 ![alt text](./_docs/img/Webbutveckling.png "Background image")
+
 ### Färgval
 
 ##### Element
@@ -32,6 +35,7 @@
 Inget särskilt utan det som finns på användarens dator.
 
 ### Mockup
+
 ![alt text](./_docs/img/Mockup.PNG "Mockup")
 
 ### Dokumentation
@@ -55,13 +59,21 @@ Jag hade ont om tid vilket ledde till att jag slutförde hemsidan direkt utan at
 ###### Testresultat av w3c’s validator: 
 
 ###### HTML:
+
 ![alt text] (./_docs/img/Test.png "HTML validation")
+
 ###### CSS:
+
 ![alt text] (./_docs/img/Testcss.png "CSS validation")
+
 ###### Resultatet
+
 ![alt text] (./_docs/img/Resultatindex.png "Resultat index")
+
 ![alt text] (./_docs/img/ResultatHistoria.png "Resultat Historia")
+
 ![alt text] (./_docs/img/ResultatKontakt.png "Resultat Kontakt")
+
 Resultatet som jag fick fram är enligt mig bra och jag tycker om hur det ser ut. 
 
 #### Förbättringar
