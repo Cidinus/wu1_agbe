@@ -55,11 +55,13 @@ Jag hade ont om tid vilket ledde till att jag slutförde hemsidan direkt utan at
 ###### Testresultat av w3c’s validator: 
 
 ###### HTML:
-![alt text] (./Users/tisgot17agnber/OneDrive - Thorengruppen\Webbutveckling "HTML validation")
+![alt text] (./_docs/img/Test.png "HTML validation")
 ###### CSS:
-![alt text] ( "CSS validation")
+![alt text] (./_docs/img/Test css.png "CSS validation")
 ###### Resultatet
-
+![alt text] (./_docs/img/Resultat index.png "Resultat index")
+![alt text] (./_docs/img/Resultat Historia.png "Resultat Historia")
+![alt text] (./_docs/img/Resultat kontakt.png "Resultat kontakt")
 Resultatet som jag fick fram är enligt mig bra och jag tycker om hur det ser ut. 
 
 #### Förbättringar
