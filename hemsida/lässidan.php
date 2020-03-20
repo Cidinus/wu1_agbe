@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Bästa Hemsidan</title>
-    <link rel="stylesheet" href="./assets/css/hemsida.css"> //Hämtar hur hemsidan ska se ut från CSSen här.
+    <link rel="stylesheet" href="./assets/css/hemsida.css"> <!--Hämtar hur hemsidan ska se ut från CSSen här.-->
 
-    <script src="http://code.jquery.com/jquery-latest.js"></script>  //Hämtar den senaste koden för att förbereda för andra scripts.
+    <script src="http://code.jquery.com/jquery-latest.js"></script>  <!--Hämtar den senaste koden för att förbereda för andra scripts.-->
 
-// Hela denna scripten nedanför uppdaterar date.php filerna som innehåller datum kod.
+<!--Hela denna scripten nedanför uppdaterar date.php filerna som innehåller datum kod.-->
     <script>
         $(document).ready(function(){  //Gör redo koden i dokumentet.
              $("#div_date").load("date.php"); //Ladda in koden från dokumentet date.php.
@@ -20,7 +20,7 @@
         });
     </script>
 
-// Hela denna scripten nedanför uppdaterar load.php filerna som innehåller tid kod.
+<!--Hela denna scripten nedanför uppdaterar load.php filerna som innehåller tid kod.-->
         <script>
             $(document).ready(function(){  //Gör redo koden i dokumentet.
                  $("#div_navbar").load("load.php"); //Ladda in koden från dokumentet load.php.
@@ -33,7 +33,7 @@
 
 </head>
 <body>
-    <div id="wrapper"> //Skapar ett id namngett wrapper.
+    <div id="wrapper"> <!--Skapar ett id namngett wrapper.-->
         <nav class="topnav">
             <a href="./index.php">Home</a>
             <a class="active" href="javascript:void(0)">Lässidan</a>
